@@ -1,0 +1,7 @@
+{
+  "name": "AI Study Assistant ",
+  "description": "An intelligent assistant to help you with your studies. Ask questions, get explanations, and summarize complex topics with the power of AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
